@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit.js</code> and save to reload.
+          Testing bot
         </p>
         <a
           className="App-link"
