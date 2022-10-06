@@ -4,10 +4,6 @@ Rapton is a Open Source Project that builds resume for developer's which takes i
 
 Visit the website: [Rapton](https://rapton.netlify.app/)
 
-## Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-
 ## Contribution Guidelines
 Are we missing any of your favorite features, which you think you can add to it❓ We invite you to contribute to this project and make it better. 
 To start contributing, follow the below guidelines: 
